@@ -536,7 +536,7 @@ The maximum limits are as follows:
 {{</accordion>}}
 {{<accordion title="When a Cloud Server is deleted how is the data removed from the host server?" col="in" href="accordion61">}}
 
-Cloud Servers use VHD storage. When you delete a server, the systems ecurely and immediately
+Cloud Servers use VHD storage. When you delete a server, the system securely and immediately
 deletes the VHD file. You cannot recover a deleted server.
 {{</accordion>}}
 
